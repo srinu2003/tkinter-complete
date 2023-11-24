@@ -14,6 +14,7 @@ def button_func():
 # window
 window = tk.Tk()
 window.title('Getting and setting widgets')
+window.geometry('800x500')
 
 # widgets 
 label = ttk.Label(master = window, text = 'Some text')
