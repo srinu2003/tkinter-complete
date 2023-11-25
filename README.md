@@ -4,7 +4,8 @@ The project is published under the CC0 license. You can use it for any project (
 This does not include external modules used for these projects (like the Azure theme)
 
 ## Tutorial 1: An introduction to tkinter + demo app
-![Alt text](<img/Screenshot 2023-11-25 002559.png>)
+
+![Screen Shot](<img/Screenshot 2023-11-25 002559.png>)
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
